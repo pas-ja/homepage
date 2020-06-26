@@ -1,0 +1,51 @@
+.main {
+    max-width: 1000px;
+    margin: 0px auto;
+    padding-bottom: 20px;
+}
+
+.main__articleTopText {
+    color: white;
+    font-size: larger;
+    font-style: italic;
+    text-align: center;
+}
+
+.main__articleIntroText {
+    min-height: 440px;
+    background-color: rgb(53, 53, 53);
+    padding: 20px;
+    border: white solid 1px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 18px whitesmoke;
+    line-height: 1.5;
+    margin: 2px;
+}
+
+.main__articleIntroImageSection {
+    float: right;
+    margin: auto;
+    padding: 20px;
+}
+
+.main__button {
+    align-content: center;
+    color: white;
+    background-color: darkred;
+    border: white solid 2px;
+    border-radius: 6px;
+    height: 32px;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.main__articleText {
+    color: rgb(252, 248, 201);
+    margin-left: 15%;
+    line-height: 1.4;
+}
+
+.main__image {
+    width: 300px;
+    border-radius: 10px;
+}
